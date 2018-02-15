@@ -2,7 +2,7 @@ public class Practice {
 
     public static void main(String[] args) {
 
-        int count = 1;                  //int value starts where the count begins
+        int count = 6;                  //int value starts where the count begins
         while (count < 11) {            //evaluating a boolean, while (true)
             System.out.println("Count is: " + count);
             count++;
